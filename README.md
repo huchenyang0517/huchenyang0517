@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+I’m a passionate web developer with a keen interest in open source,machine learning, front-end development. I love to learn new technologies and collaborate with others to build amazing projects.
+
+## 🌱 Currently Learning
+- Salesforce
+
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:**  Node.js, React, Springboot
+- **Databases:** MySQL, Redis
+- **Tools:** Git, Docker,K8s
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+
+
+## 📫 How to Reach Me
+Feel free to reach out via chenyang.hu@thoughtworks.com or through my social media links above.
