@@ -28,7 +28,7 @@ I’m a passionate web developer with a keen interest in open source,machine lea
 - **Tools:** Git, Docker,K8s
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=huchenyang0517&show_icons=true&theme=radical)
 
 
 ## 📫 How to Reach Me
