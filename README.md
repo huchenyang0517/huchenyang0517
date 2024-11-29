@@ -23,7 +23,7 @@ I’m a passionate web developer with a keen interest in open source,machine lea
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, Python, Java
-- **Frameworks:**  Node.js, React, Springboot
+- **Frameworks:**  React, Springboot
 - **Databases:** MySQL, Redis
 - **Tools:** Git, Docker,K8s
 
